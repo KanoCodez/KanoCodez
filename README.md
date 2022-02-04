@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KanoCodez
+- 👀 I’m interested in Websites
+- 🌱 I’m currently learning HTML, etc
+- 💞️ I’m looking to collaborate on 2048 (Probably Will not Happen)
